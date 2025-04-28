@@ -30,9 +30,12 @@ A Streamlit-based Q&A chatbot that uses Groq’s LLM to answer user questions.
 
 ---
 
-## Installation
+## Installation!
+
 
 1. **Clone the repo**  
    ```bash
    git clone https://github.com/your-org/groq-chatbot.git
    cd groq-chatbot
+
+   [Screenshot 2025-04-28 110547](https://github.com/user-attachments/assets/b6c5974b-3bd9-4ff1-8701-b756f1d1ee83)
