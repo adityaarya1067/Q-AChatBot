@@ -29,7 +29,9 @@ A Streamlit-based Q&A chatbot that uses Groq’s LLM to answer user questions.
 - [python-dotenv](https://pypi.org/project/python-dotenv/)  
 
 ---
-[Screenshot 2025-04-28 110547](https://github.com/user-attachments/assets/b6c5974b-3bd9-4ff1-8701-b756f1d1ee83)
+![Alt text](https://github.com/user-attachments/assets/b6c5974b-3bd9-4ff1-8701-b756f1d1ee83)
+
+
 
 ## Installation!
 
